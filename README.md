@@ -1,4 +1,4 @@
-# Gerenciador de Links
+# Linkvault
 
 ![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -7,7 +7,7 @@
 ![Prisma](https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-Back-end para salvar, categorizar e consultar links, tutoriais escritos e referências técnicas.
+API para catalogar e consultar links, conteúdos técnicos e referências.
 
 ## Tecnologias
 
@@ -47,8 +47,8 @@ Back-end para salvar, categorizar e consultar links, tutoriais escritos e refer�
 ## Instalação
 
 ```bash
-git clone https://github.com/caiolucasbittencourt/gerenciador-de-links.git
-cd gerenciador-de-links
+git clone https://github.com/caiolucasbittencourt/linkvault.git
+cd linkvault
 npm install
 ```
 

@@ -1,7 +1,7 @@
 {
-  "name": "gerenciador-de-links",
+  "name": "linkvault",
   "version": "0.0.1",
-  "description": "Back-end NestJS para gerenciar links e documentacoes em texto.",
+  "description": "API para catalogar e consultar links, conteúdos técnicos e referências.",
   "author": "",
   "private": true,
   "license": "MIT",
